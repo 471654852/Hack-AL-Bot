@@ -7,7 +7,7 @@ REGEX:http://.*/douyin/user/getbanben
 
 REGEX:http://.*/douyin/user/login
 
-REGEX:http://.*/douyin/user/tongshizaixian.*
+REGEX:http://.*/douyin/user/tongshizaixian.\*
 
 你就把它拦下来然后给他一个好的<br>
 
