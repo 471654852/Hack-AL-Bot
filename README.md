@@ -5,11 +5,11 @@
 
 你就把它拦下来然后给他一个好的<br>
 三个正则 对应三个json<br>
-REGEX:http://.*/douyin/user/getbanben
+REGEX:http://.*/user/getbanben
 
-REGEX:http://.*/douyin/user/login
+REGEX:http://.*/user/login
 
-REGEX:http://.*/douyin/user/tongshizaixian.\*
+REGEX:http://.*/user/tongshizaixian.\*
 
 你猜哪个是哪个<br>
 
