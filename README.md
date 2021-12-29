@@ -15,6 +15,6 @@ REGEX:http://.*/user/tongshizaixian.\*
 
 你猜怎么用<br>
 
-你都打开GitHub了 你应该知道怎么做
+丢进fiddler去
 
 ![image](https://user-images.githubusercontent.com/56741965/141687124-60adff77-471d-4ddd-bc4c-d011ee3da20e.png)
